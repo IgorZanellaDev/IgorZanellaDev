@@ -1,4 +1,11 @@
-### Hi there 👋
+<p align="center"><a href="https://www.igorzanella.dev"><img src="./assets/izdev-logo.jpeg" alt="Igor Zanella"/></a></p>
+
+# Igor Zanella
+
+⚠️ WIP ⚠️
+
+## Stats
+![IgorZanellaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorZanellaDev&count_private=true&show_icons=true)
 
 <!--
 **IgorZanellaDev/IgorZanellaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
