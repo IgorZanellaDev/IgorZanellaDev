@@ -19,10 +19,14 @@ Other than this, I'm also trying to earn from this, using Amazon Affiliate Progr
 You can find my other projects on [my website](https://www.igorzanella.dev/projects). Some are not live anymore, but the code is still on GitHub.
 
 ## 👨🏻‍🏫 My courses
-### ⚛️ React, Typescript e Styled Components: da zero a web app! ([go to course](https://www.udemy.com/course/react-typescript-e-styled-components-da-zero-a-web-app/?referralCode=36449F31118CB6A9A61C))
+### ⚛️ React, Typescript e Styled Components: da zero a web app! ([Discount for you](https://go.igorzanella.dev/courses/react-ts-sc-github))
 This is my first Italian course on Udemy. I created this for people who want to approach React for the first time.
 With this course, it's possible to learn the React bases with TypeScript and Styled Components.
 Perfect to start developing some web applications. On [my website](https://igorzanella.dev/courses) you can also find a discount for the course.
+
+### 📚 Master React Libraries (with Customerly codebase) ([Discount for you](https://go.igorzanella.dev/courses/mrl-github))
+My second course on Udemy. It's in English. I created this course for people who already know React basis and want to learn some libraries, used by big companies.
+In the course I also show some code snippets of [Customerly](https://www.customerly.io), to explain and show some conventions and some usages of the libraries you find in the course.
 
 ## 📦 My open source NPM packages
 ### 📸 ssr-react-insta-stories
@@ -37,9 +41,6 @@ This is a forked package. It's forked from react-insta-stories but modified to w
 ## 📝 My blogging accounts
 **📖 Medium:** [Igor Zanella](https://it.linkedin.com/in/igor-zanella)\
 **👨🏻‍💻 Dev.to:** [Igor Zanella](https://dev.to/igorzanelladev)
-
-## 📊 Github Stats
-![IgorZanellaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorZanellaDev&count_private=true&show_icons=true)
 
 ## 🏎️ My hobbies
 I love sports, particularly:
