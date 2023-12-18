@@ -28,8 +28,14 @@ Perfect to start developing some web applications. On [my website](https://igorz
 My second course on Udemy. It's in English. I created this course for people who already know React basis and want to learn some libraries, used by big companies.
 In the course I also show some code snippets of [Customerly](https://www.customerly.io), to explain and show some conventions and some usages of the libraries you find in the course.
 
-## 📦 My open source NPM packages
-### 📸 ssr-react-insta-stories
+## 📦 My open source projects
+### 📟 api-proxy-cacher ([GitHub](https://github.com/IgorZanellaDev/api-proxy-cacher))
+API Proxy Cacher is a simple server designed to cache API requests, facilitating the development of frontend projects even when working offline, such as during travel or in environments without internet access.
+
+### 💰 ISDA - I Soldi degli Altri ([GitHub](https://github.com/NandayDev/isda))
+ISDA is a web application I created with Next.js for a streaming format held by [RetireInProgress](https://www.twitch.tv/retireinprogress) on Twitch.
+
+### 📸 ssr-react-insta-stories ([GitHub](https://github.com/IgorZanellaDev/ssr-react-insta-stories) - [NPM](https://www.npmjs.com/package/ssr-react-insta-stories))
 This is a forked package. It's forked from react-insta-stories but modified to work with SSR frameworks like Gatsby. Simple fork with some removal and modifications.
 
 ## 🤙🏻 Contact me
