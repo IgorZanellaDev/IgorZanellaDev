@@ -32,7 +32,7 @@ In the course I also show some code snippets of [Customerly](https://www.custome
 ### 📟 api-proxy-cacher ([GitHub](https://github.com/IgorZanellaDev/api-proxy-cacher))
 API Proxy Cacher is a simple server designed to cache API requests, facilitating the development of frontend projects even when working offline, such as during travel or in environments without internet access.
 
-### 💰 ISDA - I Soldi degli Altri ([GitHub](https://github.com/NandayDev/isda))
+### 💰 ISDA - I Soldi degli Altri ([GitHub](https://github.com/NandayDev/isda) - [Website](https://isda.vercel.app))
 ISDA is a web application I created with Next.js for a streaming format held by [RetireInProgress](https://www.twitch.tv/retireinprogress) on Twitch.
 
 ### 📸 ssr-react-insta-stories ([GitHub](https://github.com/IgorZanellaDev/ssr-react-insta-stories) - [NPM](https://www.npmjs.com/package/ssr-react-insta-stories))
